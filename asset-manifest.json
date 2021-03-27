@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/fotontech-website/static/js/main.f807f2e5.chunk.js",
-    "main.js.map": "/fotontech-website/static/js/main.f807f2e5.chunk.js.map",
+    "main.js": "/fotontech-website/static/js/main.3760e74d.chunk.js",
+    "main.js.map": "/fotontech-website/static/js/main.3760e74d.chunk.js.map",
     "runtime-main.js": "/fotontech-website/static/js/runtime-main.266ed9b8.js",
     "runtime-main.js.map": "/fotontech-website/static/js/runtime-main.266ed9b8.js.map",
     "static/css/2.88a80e89.chunk.css": "/fotontech-website/static/css/2.88a80e89.chunk.css",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.266ed9b8.js",
     "static/css/2.88a80e89.chunk.css",
     "static/js/2.edc5623d.chunk.js",
-    "static/js/main.f807f2e5.chunk.js"
+    "static/js/main.3760e74d.chunk.js"
   ]
 }
